@@ -1,6 +1,7 @@
 # Hi there 👋
 
-Welcome! 
+Welcome!
+
 My name is Mateus Pereira, I'm 26 years old. I am currently a student at the Catholic University of Brasília-DF, in the course of Analysis and Systems Development.
 
 ### - 🔭 I'm currently working on college projects.
@@ -13,8 +14,8 @@ My name is Mateus Pereira, I'm 26 years old. I am currently a student at the Cat
 
 * **Mateus Perera** - *Web Developer* - [Linkedin](https://www.linkedin.com/in/mateus-pereira-971946197/)
 
-* **Mateus Perera** - *Web Developer* - [GMAIL](mateuusth14@gmail.com)
-## That's me!
+* **Mateus Perera** - *Web Developer* - [Gmail](mateuusth14@gmail.com)
+### - That's me!
 ![use case](https://github.com/mateuspsm/mateuspsm/blob/master/mateus.jpg)
 
 ## Thanks!!
