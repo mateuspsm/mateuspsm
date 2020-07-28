@@ -1,8 +1,8 @@
 # Hi there 👋
 
-Welcome!
+## Welcome!
 
-My name is Mateus Pereira, I'm 26 years old. I am currently a student at the Catholic University of Brasília-DF, in the course of Analysis and Systems Development.
+Sou estudante de tecnologia da informação, atualmente estudando Análise e Desenvolvimento de Sistemas. Tenho conhecimento em desenvolvimento Web.
 
 ### - 🔭 I'm currently working on college projects.
 ### - 🌱 I'm currently learning postgresql and starting in Java.
