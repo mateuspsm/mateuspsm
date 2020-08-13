@@ -17,7 +17,5 @@
 * **Mateus Perera** - *Web Developer* - [Linkedin](https://www.linkedin.com/in/mateus-pereira-971946197/)
 
 * **Mateus Perera** - *Web Developer* - [Gmail](mateuusth14@gmail.com)
-### - That's me!
-![use case](https://github.com/mateuspsm/mateuspsm/blob/master/mateus.jpg)
 
 ## Thanks!!
