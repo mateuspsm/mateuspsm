@@ -37,7 +37,7 @@
 
 **IDE**
 
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&link=https://github.com/mateuspsm/)](https://github.com/mateuspsm/)[![Eclipse](https://img.shields.io/badge/-Eclipse-007ACC?style=flat-square&logo=VisualStudioCode&link=https://github.com/mateuspsm/)](https://github.com/mateuspsm/)
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&link=https://github.com/mateuspsm/)](https://github.com/mateuspsm/)[![Eclipse](https://img.shields.io/badge/-Eclipse-005589?style=flat-square&logo=eclipse&link=https://github.com/mateuspsm/)](https://github.com/mateuspsm/)
 
 **Versioning and Communication**
 
