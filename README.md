@@ -1,10 +1,11 @@
 
-# Hi, I'm Mateus Pereira 🧑🏾‍🦱
+# Hi there! I'm Mateus Pereira 🧑🏾‍🦱
 [![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Pereira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-pereira-971946197/)](https://www.linkedin.com/in/mateus-pereira-971946197/) [![Gmail Badge](https://img.shields.io/badge/-mateuusth14@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateuusth14@gmail.com)](mailto:mateuusth14@gmail.com)  
 
 ## About me 😃
 
 :man_technologist: <strong>I'm a Web Development</strong>
+
 💻 Enthusiast of the web development technologies and musician in his spare time 🎼 🎸
 
 📚  Student of Systems Analysis and Development at the Catholic University of Brasília-DF. Currently in the 3rd semester 
