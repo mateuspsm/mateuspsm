@@ -1,94 +1,50 @@
+# Hi there 👋🏾 I'm Mateus 🧑🏾‍🦱
 
-  
+👨🏾‍💻 Software Developer 🇧🇷 Brasília-DF, Brazil
 
-# Hi there! I'm Mateus Pereira 🧑🏾‍🦱
+![Mateus's github stats](https://github-readme-stats.vercel.app/api?username=mateuspsm&show_icons=true&theme=onedark)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Pereira-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-pereira-de-souza-moreira/)](https://www.linkedin.com/in/mateus-pereira-de-souza-moreira/)  [![Gmail Badge](https://img.shields.io/badge/-mateuusth14@gmail.com-808080?style=flat-square&logo=Gmail&logoColor=red&link=mailto:mateuusth14@gmail.com)](mailto:mateuusth14@gmail.com)
+## About Me
 
-  
+Hi, my name is Mateus. I'm a back-end developer.
+I am studying Systems Analysis and Development.
 
-## About me 😃
+### 🎯 Skills
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuspsm&layout=compact)](https://github.com/mateuspsm/github-readme-stats)
 
-:man_technologist: <strong>I'm a Web Development</strong>
+### 🔧 Tools:
+<img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=amd&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=amd&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=amd&logoColor=white"/>
+<img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=amd&logoColor=white"/>
+<img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=amd&logoColor=white"/>
 
-  
+### 🖥 Workspace Spec
 
-💻 Enthusiast of the web development technologies and musician in his spare time 🎸
+<img src="https://img.shields.io/badge/AMD FX 6300 -_R9 270-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/>
 
-  
 
-📚 Student of Systems Analysis and Development at the Catholic University of Brasília-DF. Currently in the 3rd semester
+### 📬 How to reach me:
 
-  
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][LinkedIn]
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+"/>][Gmail]
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>][Instagram]
+[<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>][Spotify]
 
-🇧🇷 I live in Brasília-DF, Brazil
-
-  
-
-<img  align='center'  src="https://github-readme-stats.vercel.app/api?username=mateuspsm&show_icons=true">
-
-  
-
-## Knowledge 📚👨🏾‍💻
-
-  
-
-**Languages**
-
-  
-
-[![JAVA](https://img.shields.io/badge/-JAVA-C0C0C0?style=flat-square&logo=java&logoColor=white&link=https://github.com/mateuspsm/)](https://github.com/mateuspsm/)[![PHP](https://img.shields.io/badge/-PHP-836FFF?style=flat-square&logo=php&logoColor=white&link=https://github.com/mateuspsm/)](https://github.com/mateuspsm/)[![C](https://img.shields.io/badge/-1C1C1C?style=flat-square&logo=C&logoColor=white&link=https://github.com/mateuspsm/)](https://github.com/mateuspsm/)
-
-  
-
-**Front-end / Mobile**
-
-  
-
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/mateuspsm/)](https://github.com/mateuspsm/)[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/mateuspsm/)](https://github.com/mateuspsm/)
-
-  
-
-**Design**
-
-  
-
-[![Gimp](https://img.shields.io/badge/-Gimp-D3D3D3?style=flat-square&logo=Gimp&link=https://github.com/mateuspsm/)](https://github.com/mateuspsm/)[![Gimp](https://img.shields.io/badge/-Inkscape-000000?style=flat-square&logo=Inkscape&link=https://github.com/mateuspsm/)](https://github.com/mateuspsm/)
-
-  
-
-**Database**
-
-  
-
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/mateuspsm/)](https://github.com/mateuspsm/)[![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://github.com/mateuspsm/)](https://github.com/mateuspsm/)
-
-  
-
-**Operational System**
-
-  
-
-[![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=Linux&link=https://github.com/mateuspsm/)](https://github.com/mateuspsm/)[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&link=https://github.com/mateuspsm/)](https://github.com/mateuspsm/)
-
-  
-
-**IDE**
-
-  
-
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&link=https://github.com/mateuspsm/)](https://github.com/mateuspsm/)[![Eclipse](https://img.shields.io/badge/-Eclipse-005589?style=flat-square&logo=eclipse&link=https://github.com/mateuspsm/)](https://github.com/mateuspsm/)
-
-  
-
-**Versioning and Communication**
-
-  
-
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/mateuspsm/)](https://github.com/mateuspsm/)
-
-  
-
-⭐️ From [Mateus Pereira](https://github.com/mateuspsm/)
+[LinkedIn]: https://www.linkedin.com/in/mateus-pereira-de-souza-moreira/
+[Gmail]: mailto:mateuusth14@gmail.com
+[Instagram]: https://www.instagram.com/__mateus_pereira/
+[GitHub]: https://github.com/mateuspsm
+[Spotify]: https://open.spotify.com/user/21k6foq2cv27iuic5qlpwdbey
