@@ -4,7 +4,11 @@
 
 <p align="left"><h2>🧑🏾‍🦱 About me:</h2>
 
-Hi, my name is Mateus. I'm a back-end developer. I am studying Systems Analysis and Development.
+Hi, my name is Mateus. 
+
+I'm a back-end developer. 
+
+I am studying Systems Analysis and Development.
 
 👨🏾‍💻 Software Developer 🇧🇷 Brasília-DF, Brazil
 
